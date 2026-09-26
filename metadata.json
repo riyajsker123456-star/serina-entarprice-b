@@ -1,0 +1,6 @@
+{
+  "name": "SERINA ENTERPRISES - Online Clothing Store",
+  "description": "Online clothing store for SERINA ENTERPRISES based in Murshidabad, West Bengal, India. Browse sample catalog for Women's Wear, Men's Wear & Everyday Clothing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
